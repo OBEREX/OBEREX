@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OBEREX
+- 👋 Hi, I’m Balogun Ali
 - 👀 I’m interested in Data science, ML and AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science project
